@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>wstool_export_tags_example</name>
+  <version>0.1.0</version>
+  <description>Example package to demonstrate wstool export --tags</description>
+  <maintainer email="ryan@rwsinnet.com">Ryan Sinnet</maintainer>
+  <license>BSD</license>
+  <url type="repository">https://github.com/rsinnet/wstool-export-tags-example.git</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <architecture_independent/>
+  </export>
+</package>
