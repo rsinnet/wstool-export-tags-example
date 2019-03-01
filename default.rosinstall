@@ -1,0 +1,4 @@
+- git:
+    local-name: wstool-export-tags-example
+    uri: git@github.com:rsinnet/wstool-export-tags-example.git
+    version: master
